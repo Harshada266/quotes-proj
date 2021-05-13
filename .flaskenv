@@ -1,0 +1,2 @@
+FLASK_ENV=developemnt
+FLASK_APP=quotes.py
